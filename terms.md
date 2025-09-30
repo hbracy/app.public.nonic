@@ -72,7 +72,6 @@ You may not use or access the Services if you are located in a jurisdiction subj
 
 ## 18. Contact Us
 If you have questions about these Terms, please contact us:
-- Email: [your contact email]
-- Address: [your business address]
+- Email: harold_bracy@alumni.brown.edu
 
 

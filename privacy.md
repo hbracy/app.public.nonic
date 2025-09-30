@@ -88,7 +88,6 @@ We may update this Privacy Policy from time to time. We will update the "Effecti
 
 ## 13. Contact Us
 If you have questions or requests, please contact us:
-- Email: [your contact email]
-- Address: [your business address]
+- Email: harold_bracy@alumni.brown.edu
 
 
