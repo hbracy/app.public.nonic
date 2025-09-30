@@ -4,8 +4,6 @@ Effective date: September 30, 2025
 
 These Terms of Use ("Terms") govern your access to and use of the NoNic mobile application and related services (collectively, the "Services"). By using the Services, you agree to these Terms. If you do not agree, do not use the Services.
 
-If you have questions, contact us at [your contact email].
-
 ## 1. About NoNic (Not Medical Advice)
 NoNic provides wellness and habit-support content to help users reduce or quit nicotine. NoNic does not provide medical advice and is not a substitute for professional medical care, diagnosis, or treatment. Always seek the advice of a qualified healthcare provider for questions about a medical condition. If you experience a medical emergency, call your local emergency number immediately.
 

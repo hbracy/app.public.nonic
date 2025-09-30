@@ -4,7 +4,7 @@ Effective date: September 30, 2025
 
 This Privacy Policy explains how NoNic ("NoNic", "we", "our", or "us") collects, uses, shares, and safeguards information when you use the NoNic mobile application and related services (collectively, the "Services"). By using the Services, you agree to this Privacy Policy.
 
-If you do not agree with this policy, please do not use the Services. If you have questions, contact us at [your contact email].
+If you do not agree with this policy, please do not use the Services.
 
 ### Summary
 - We collect only what we need to provide and improve NoNic.
@@ -63,7 +63,7 @@ Depending on your location, you may have rights to:
 - Port your data in a machine-readable format
 - Withdraw consent where processing is based on consent
 
-To exercise rights, use in-app settings where available or contact us at [your contact email]. We may ask you to verify your identity before fulfilling requests.
+To exercise rights, use in-app settings where available or contact us. We may ask you to verify your identity before fulfilling requests.
 
 ### 6.1 Marketing Communications
 You can opt out of non-essential communications by using in-app controls or unsubscribe options in messages. We may still send service or transactional notices.
